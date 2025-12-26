@@ -1,1 +1,1 @@
-alert("hi");
+javascript:alert("hi");
